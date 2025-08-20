@@ -49,9 +49,9 @@ A: 可能是 Bitfinex API 暫時無法使用，會自動使用參考利率
 
 ## 📞 聯絡資訊
 
-- **作者：** [richardrhg]
-- **GitHub：** [https://github.com/richardrhg您的GitHub連結]
-- **Discord：** [richard_chou]
+- **作者：** richardrhg
+- **GitHub：** https://github.com/richardrhg
+- **Discord ID：** richard_chou
 
 ---
 
