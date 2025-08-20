@@ -2,6 +2,12 @@
 
 ## ⚙️ 設定說明
 
+### 使用以下連結加入至您的 Discord 伺服器
+
+[👉 點擊加入Discord伺服器](https://discord.com/oauth2/authorize?client_id=1407732442701365288)  
+cryptocurrency bot
+
+
 ### 環境變數
 - `DiscordBotToken` - Discord 機器人 Token（必需）
 
