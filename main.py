@@ -52,14 +52,11 @@ class CryptoBot:
             
             # 構建正確的 API URL
             url = f"{base_url}/tickers?symbols={symbol}"
-            
-            print(f"查詢Bitfinex借貸利率: {url}")
+        
             
             async with self.session.get(url) as response:
-                print(f"Bitfinex借貸API響應狀態: {response.status}")
                 if response.status == 200:
                     data = await response.json()
-                    print(f"借貸資料: {data}")
                     
                     # 解析借貸利率資料
                     if isinstance(data, list) and len(data) > 0:
